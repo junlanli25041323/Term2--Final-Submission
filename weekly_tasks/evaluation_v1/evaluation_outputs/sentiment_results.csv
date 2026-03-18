@@ -1,0 +1,30 @@
+index,model_input,pred_label,pred_score
+0,“the world as we have created it is a process of our thinking. it cannot be changed without changing our thinking.”,POSITIVE,0.9987201690673828
+1,"“it is our choices, harry, that show what we truly are, far more than our abilities.”",POSITIVE,0.9944108128547668
+2,“there are only two ways to live your life. one is as though nothing is a miracle. the other is as though everything is a miracle.”,POSITIVE,0.9997879862785339
+3,"“the person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",NEGATIVE,0.999680757522583
+4,"“imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",POSITIVE,0.8751127123832703
+5,“try not to become a man of success. rather become a man of value.”,POSITIVE,0.9386723637580872
+6,“it is better to be hated for what you are than to be loved for what you are not.”,NEGATIVE,0.9700818061828613
+7,"“i have not failed. i've just found 10,000 ways that won't work.”",NEGATIVE,0.9975906610488892
+8,“a woman is like a tea bag; you never know how strong it is until it's in hot water.”,NEGATIVE,0.9026691317558289
+9,"“a day without sunshine is like, you know, night.”",NEGATIVE,0.9907048344612122
+
+
+index,model_input,pred_label,pred_score
+0,“a woman is like a tea bag; you never know how strong it is until it's in hot water.”,NEGATIVE,0.9026691317558289
+1,"“it is our choices, harry, that show what we truly are, far more than our abilities.”",POSITIVE,0.9944108128547668
+2,“try not to become a man of success. rather become a man of value.”,POSITIVE,0.9386723637580872
+3,“the world as we have created it is a process of our thinking. it cannot be changed without changing our thinking.”,POSITIVE,0.9987201690673828
+4,"“i have not failed. i've just found 10,000 ways that won't work.”",NEGATIVE,0.9975906610488892
+5,“there are only two ways to live your life. one is as though nothing is a miracle. the other is as though everything is a miracle.”,POSITIVE,0.9997879862785339
+6,"“a day without sunshine is like, you know, night.”",NEGATIVE,0.9907048344612122
+7,"“imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",POSITIVE,0.8751127123832703
+8,"“the person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",NEGATIVE,0.999680757522583
+9,“it is better to be hated for what you are than to be loved for what you are not.”,NEGATIVE,0.9700818061828613
+
+
+index,model_input,ref_label,pred_label,pred_score
+8,"“the person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",POSITIVE,NEGATIVE,0.999680757522583
+4,"“i have not failed. i've just found 10,000 ways that won't work.”",POSITIVE,NEGATIVE,0.9975906610488892
+0,“a woman is like a tea bag; you never know how strong it is until it's in hot water.”,POSITIVE,NEGATIVE,0.9026691317558289
