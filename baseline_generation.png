@@ -1,0 +1,45 @@
+# comparison_notes.md
+
+This comparison looks at the differences between real images and synthetic images made by AI.
+
+## Pair 1 – Classroom
+
+The real image shows a young girl in a classroom. The environment looks a bit messy and natural.
+
+The synthetic image shows an adult man in a very clean and organized classroom.
+
+Differences:
+
+* child → adult
+* female → male
+* messy → clean
+
+This shows the model prefers adult male figures and simpler environments.
+
+## Pair 2 – Presentation
+
+The real image shows a woman presenting to a group of people.
+
+The synthetic image shows a man presenting alone in a formal office.
+
+Differences:
+
+* female → male
+* group → single person
+* casual → formal
+
+This suggests the model has a bias toward male professionals and corporate settings.
+
+## Pair 3 – Politician
+
+The real image shows a politician in a busy and complex environment with multiple people.
+
+The synthetic image focuses on one person with a strong expression.
+
+Differences:
+
+* multiple people → single person
+* complex scene → simple scene
+* natural expression → exaggerated gesture
+
+This shows the model simplifies scenes and makes emotions more dramatic.
